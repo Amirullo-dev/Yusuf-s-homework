@@ -1,0 +1,369 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: Rubik;
+    transition: 0.2s;
+    background-color: #F9FAFF;
+}
+
+
+header {
+    width: 1171px;
+    height: 50.408084869384766px;
+}
+
+ul {
+    display: flex;
+    justify-content: end;
+    gap: 60px;
+    list-style: none;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: hsla(236, 21%, 27%, 1);
+    font-family: Rubik;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.one {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 55px;
+}
+
+.btn1 {
+    width: 120px;
+    height: 50.408084869384766px;
+    border-radius: 5px;
+    color: black;
+    font-family: Rubik;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    background-color: white;
+}
+
+a:hover {
+    color: hsla(14, 100%, 61%, 1);
+}
+
+.btn1:hover {
+    color: white;
+    background-color: hsla(14, 100%, 61%, 1);
+}
+
+h1 {
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    width: 530px;
+    height: 156px;
+
+
+}
+
+.div {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+}
+
+.div p {
+    width: 513px;
+    height: 66px;
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+
+}
+
+.wer1 {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+span {
+    color: hsla(14, 100%, 66%, 1);
+}
+
+.wer2 {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+.div2 h2 {
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+
+}
+
+.div2 {
+    width: 449px;
+    height: 497px;
+}
+
+.div2 p {
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    margin-top: 95px;
+}
+
+.btn2 {
+    background-color: hsla(14, 100%, 66%, 1);
+    color: white;
+    width: 176px;
+    height: 58px;
+    opacity: 1;
+    top: 1515px;
+    left: 855px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 30px;
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 141px;
+}
+
+.wer3 h2 {
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 36px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    margin-top: 156px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 43px;
+    margin-left: 50px;
+}
+
+.box {
+    width: 361px;
+    height: 417px;
+    background-color: #FFFFFF;
+}
+
+.box h3 {
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    margin: 22px 20px;
+}
+
+.box div span {
+    color: #363853;
+    font-family: Rubik;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0%;
+
+}
+
+.box div span {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 22px;
+    margin-bottom: 25px;
+}
+
+.box div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn5 {
+    width: 79px;
+    height: 33px;
+    top: 2171px;
+    left: 1207px;
+    opacity: 1;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #FF7A50;
+    margin-right: 39px;
+    margin-bottom: 22px;
+}
+
+.hg3 h2 {
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    color: #363853;
+    margin-bottom: 30px;
+}
+
+.hg3 {
+    width: 450px;
+    height: 174px;
+    top: 2507px;
+    left: 176px;
+    angle: 0 deg;
+    opacity: 1;
+    margin-top: 281px;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+
+hg3 p {
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+}
+
+.wer4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.jk2 {
+    margin-top: 162px;
+}
+
+.qwe {
+    width: 1170px;
+    height: 312px;
+    top: 2979px;
+    left: 138px;
+    opacity: 1;
+    border-width: 1px;
+    background-color: #FF7A50;
+    margin: 110px auto;
+    border-radius: 20px;
+}
+
+.qwe h2 {
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 59px;
+    color: white;
+}
+
+/* .inp {
+    width: 838.5px;
+    height: 78px;
+    top: 3156.45px;
+    left: 303.75px;
+    opacity: 1;
+    border-width: 1px;
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    padding-left: 43px;
+    border-radius: 70px;
+    margin: 72px auto;
+    margin-left: 165px;
+    margin-right: 165px;
+    display: flex;
+    align-items: center;
+
+} */
+
+.inpdiv {
+    display: flex;
+    justify-content: center;
+}
+
+.inp input {
+    outline: none;
+    border: none;
+    font-size: 30px;
+    margin-right: 200px;
+}
+
+.inp button {
+    width: 200px;
+    height: 58px;
+    top: 3166px;
+    left: 941.4px;
+    opacity: 1;
+    border-radius: 70px;
+    border-width: 1px;
+    margin-right: -30px;
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: white;
+    background-color: #FF7A50;
+}
+
+.inp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    width: 838px;
+    height: 78px;
+    background-color: #FFFFFF;
+    border-radius: 70px;
+}
